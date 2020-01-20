@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fido-mapping version="1">
+	<mapping field="idMethod">
+		<value>101</value>
+		<loa>medium</loa>
+	</mapping>
+	<mapping field="idType">
+		<value>201</value>
+		<loa>medium</loa>
+	</mapping>
+	<mapping field="authMethod">
+		<value>300</value>
+		<loa>medium</loa>
+	</mapping>
+	<mapping field="authType">
+		<value>0024#FE01</value>
+		<loa>medium</loa>
+	</mapping>
+	<mapping field="authType">
+		<value>0024#FE02</value>
+		<loa>low</loa>
+	</mapping>
+</fido-mapping>

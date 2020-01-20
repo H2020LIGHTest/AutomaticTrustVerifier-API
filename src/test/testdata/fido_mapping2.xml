@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fido-mapping version="2">
+	<idMethod 	value="101">medium</idMethod>
+	<idType 		value="201">medium</idType>
+	<authMethod value="300">medium</authMethod>
+	<authType 	value="0024#FE01">medium</authType>
+	<authType 	value="0024#FE02">low</authType>
+</fido-mapping>
