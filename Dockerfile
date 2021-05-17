@@ -1,5 +1,6 @@
 FROM tomcat:jre8-alpine
 
+RUN rm -rf /usr/local/tomcat/webapps/*
 ADD target/atvapi.war /usr/local/tomcat/webapps/atvapi.war
 
 EXPOSE 8080
